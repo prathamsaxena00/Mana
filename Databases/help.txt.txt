@@ -1,0 +1,1 @@
+all the database tables records and collection are stored here
